@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **MERN Projects**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/swarupbhise/overview](https://app.netlify.com/sites/swarupbhise/overview)
+- 👨‍💻 All of my projects are available at [coder-swarup.vercel.app](https://coder-swarup.vercel.app/)
 
 - 💬 Ask me about **React Js , JavaScript , Node , mongoDB , Sql ,**
 
